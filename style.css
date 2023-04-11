@@ -1,0 +1,63 @@
+*{
+box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(90deg,rgb(190,0,0) 2%,rgb(100, 9, 47),rgb(0, 0, 0) 80%);
+    
+}
+
+.menu{
+    background-color: rgba(35, 19, 211, 20%);
+    margin: 0 20px;
+    text-align: center;
+    
+    
+}
+
+.head{
+font-family: fantasy;
+
+}
+
+
+.flavor{
+text-align: left;
+width: 75%;
+
+}
+
+.price{
+    text-align: right;
+   width: 25%;
+}
+
+.item p{
+    display: inline-block;
+    margin: 5px auto;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+hr{
+    background-color: rgb(176, 18, 118);
+    border: 1px solid red;
+   margin: 0 3em;
+   height: 2px;
+    
+    
+}
+.price{
+    display:inline-block;
+    margin:0 auto;
+    color: aliceblue;
+    font-size:18px;;
+}
+.flavor{
+    display: inline-block;
+    margin:0 auto;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.jj{display:block;}
